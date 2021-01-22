@@ -1,0 +1,22 @@
+  {
+        "name": "Bruce Wayne",
+        "username": "Batman",
+        "email": "mymousce@jared.com",
+        "address": {
+            "street": "No Street",
+            "suite": "Apt. 556",
+            "city": "Gotham",
+            "zipcode": "1111-1111",
+            "geo": {
+                "lat": "x",
+                "lng": "x"
+            }
+        },
+        "phone": "don't call, just light",
+        "website": "secretcave.org",
+        "company": {
+            "name": "Bruce's company",
+            "catchPhrase": "I'm Batman",
+            "bs": "harness real-time e-markets"
+        }
+  }
